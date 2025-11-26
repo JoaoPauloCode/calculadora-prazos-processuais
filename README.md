@@ -27,27 +27,6 @@ Este projeto representa o início da minha jornada de transição do Direito par
 - **CSS3** - Estilização e responsividade
 - **JavaScript** - Lógica de cálculo e interatividade
 
-## Estrutura do Projeto
-```
-calculadora-prazos-processuais/
-│
-├── index.html          # Arquivo principal (HTML + CSS + JS)
-└── README.md           # Documentação
-```
-
-## Como Usar Localmente
-```bash
-# Clone o repositório
-git clone https://github.com/JoaoPauloCode/calculadora-prazos-processuais.git
-
-# Entre na pasta do projeto
-cd calculadora-prazos-processuais
-
-# Abra o arquivo index.html no seu navegador
-```
-
-Ou simplesmente faça o download e abra o arquivo `index.html` em qualquer navegador.
-
 ## Como Funciona
 
 1. Selecione a data inicial do prazo
@@ -58,50 +37,20 @@ Ou simplesmente faça o download e abra o arquivo `index.html` em qualquer naveg
 
 ## O Que Aprendi
 
-Este projeto foi fundamental para consolidar conceitos básicos de programação web:
-
-### JavaScript
-- Manipulação do DOM (capturar valores de inputs, alterar conteúdo)
-- Trabalhar com datas usando o objeto `Date`
-- Criar funções e passar parâmetros
-- Estruturas condicionais (`if/else`)
-- Loops (`while`)
-- Event listeners (capturar evento de submit)
-
-### HTML
-- Estrutura semântica de formulários
-- Diferentes tipos de input (date, number, radio)
-- Organização de elementos
-
-### CSS
-- Estilização básica e uso de classes
-- Flexbox para centralização
-- Responsividade com media queries
-- Pseudo-classes (`:hover`, `:focus`)
+Organização de Projeto
+- Separação de arquivos HTML, CSS e JavaScript
+- Estrutura de pastas profissional
+- Boas práticas de desenvolvimento web
 
 ## Próximas Melhorias
 
 Funcionalidades que pretendo implementar conforme evoluo nos estudos:
 
-- [ ] Adicionar feriados nacionais
-- [ ] Salvar histórico de cálculos
-- [ ] Melhorar o visual
-- [ ] Adicionar modo escuro
-- [ ] Criar versão mobile app
-
-## Desafios Enfrentados
-
-Durante o desenvolvimento, enfrentei alguns desafios interessantes:
-
-- **Cálculo de dias úteis:** Precisei pensar em como pular finais de semana no loop
-- **Formatação de datas:** Aprendi a usar arrays para converter números em nomes de meses e dias
-- **Validação:** Garantir que o usuário preencha todos os campos antes de calcular
-
-## Limitações Conhecidas
-
-- Não considera feriados nacionais, estaduais ou municipais
-- Apenas em português (pt-BR)
-- Ferramenta educacional - não substitui cálculos oficiais
+- Adicionar feriados nacionais
+- Salvar histórico de cálculos
+- Melhorar o visual
+- Adicionar modo escuro
+- Criar versão mobile app
 
 ## Autor
 
