@@ -113,8 +113,8 @@ Este é meu primeiro projeto público e estou animado para continuar aprendendo 
 
 ---
 
-📧 **Email:** joparomoba@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/joparomoba](https://www.linkedin.com/in/joparomoba)  
+📧 **Email:** jopabarcelos@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/joparomoba](https://www.linkedin.com/in/jpbarcelos)  
 🐱 **GitHub:** [@JoaoPauloCode](https://github.com/JoaoPauloCode)
 
 ## Licença
